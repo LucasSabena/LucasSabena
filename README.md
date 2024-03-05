@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently studying Graphic Design at UADE
+- 🌱 I’m currently learning web design
+- 💬 Ask me about Binary Studio
+- 📫 How to reach me: @lucassabena18 / IG
+
 
 <!--
 **LucasSabena/LucasSabena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
